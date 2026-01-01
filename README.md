@@ -10,8 +10,6 @@ I'm a passionate DevOps Engineer with 3 years of experience in cloud automation 
 
 ## 🛠️ Tech Stack
 
-### 🧰 Tech Stack
-
 - **Operating Systems**: Linux, Windows  
 - **Scripting**: Bash, Shell  
 - **Cloud Infrastructure**: AWS  
