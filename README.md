@@ -1,6 +1,10 @@
 # Hi there 👋, I'm Mahalakshmi Chopperla
 
-# 💫 About Me:
+### Analyst II – Cloud Engineer @ DXC Technology  
+🚀 DevOps • Cloud Engineer | AWS | CI/CD | Ansible | Docker | Kubernetes | Terraform
+
+
+## 💫 About Me:
 I'm a passionate DevOps Engineer with 3 years of experience in cloud automation and CI/CD, known for reducing deployment time by 50% and cutting manual operational effort by up to 70% through Terraform, Kubernetes, and scripting-based automation. Seeking to contribute to scalable, secure, and high-performance system delivery.
 
 
@@ -65,7 +69,7 @@ This blend of cloud infrastructure, containerization, automation, and DevOps pra
 </p>
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mahachopperla&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mahachopperla&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahachopperla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
