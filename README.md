@@ -5,10 +5,81 @@ I'm a passionate DevOps Engineer with 3 years of experience in cloud automation 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahalakshmichopperla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahalakshmichopperla791@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahalakshmichopperla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahalakshmichopperla791@gmail.com)
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+## 🛠️ Tech Stack
+
+**Operating Systems & Scripting**  
+- Linux Administration  
+- Shell scripting for automation  
+
+**Cloud Infrastructure**  
+- AWS  
+- Terraform (Infrastructure as Code)  
+
+**DevOps Frameworks & Tools**  
+- Jenkins  
+- CI/CD Pipelines  
+- GitHub  
+- Ansible (Configuration Management)  
+
+**Containerization Technologies**  
+- Docker  
+- Kubernetes  
+
+**Security Measures & Tools**  
+- SonarQube  
+- Dependabot  
+
+**Monitoring & Observability**  
+- Prometheus  
+- Grafana  
+
+
+## 💼 Professional Experience & Skills
+
+I have hands-on experience in designing, automating, and managing modern infrastructure and deployments:
+
+- Provisioned **AWS infrastructure using Terraform**, leveraging reusable modules to reduce manual errors and accelerate delivery, cutting deployment time by 50%.
+- Built optimized **Docker images** following best practices, reducing image size, improving performance, and lowering storage and deployment costs.
+- Created **Kubernetes manifests and Helm charts**, enabling blue-green deployments for zero-downtime releases.
+- Enforced **CI/CD pipelines with integrated security scanning**, applying a shift-left approach to detect vulnerabilities early and ensure secure deployments.
+- Automated **CI/CD workflows using Jenkins**, integrating build, test, security checks, and deployment stages seamlessly.
+- Managed **Linux server administration**, including process optimization, service monitoring, and network troubleshooting to ensure system reliability. 
+- Executed **Ansible playbooks** to automate package installations and service configurations, standardizing server setups across multiple Linux servers. 
+- Engineered **shell scripts** to automatically restart failed services and handle common issues, improving overall service uptime. 
+- Refined **log management, cleanup routines, and scheduled maintenance** using shell automation to streamline operations.
+
+---
+
+This blend of cloud infrastructure, containerization, automation, and DevOps practices reflects my ability to deliver reliable, scalable, and secure systems.
+
+## ⚙️ Skills Showcase
+
+<p align="left">
+  <!-- Operating Systems -->
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /></a>
+  <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Shell Scripting" /></a>
+
+  <!-- Configuration Management -->
+  <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" /></a>
+
+  <!-- Containerization & Cloud -->
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" /></a>
+
+  <!-- CI/CD -->
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" /></a>
+
+  <!-- Monitoring -->
+  <a href="https://prometheus.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus" /></a>
+  <a href="https://grafana.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana" /></a>
+</p>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mahachopperla&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mahachopperla&theme=dark&hide_border=false)<br/>
