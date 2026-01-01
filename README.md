@@ -1,3 +1,5 @@
+# Hi there 👋, I'm Mahalakshmi Chopperla
+
 # 💫 About Me:
 I'm a passionate DevOps Engineer with 3 years of experience in cloud automation and CI/CD, known for reducing deployment time by 50% and cutting manual <br>operational effort by up to 70% through Terraform, Kubernetes, and scripting-based automation. Seeking to contribute to scalable, secure, and <br>high-performance system delivery.
 
