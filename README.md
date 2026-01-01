@@ -15,10 +15,10 @@ I'm a passionate DevOps Engineer with 3 years of experience in cloud automation 
 ## 🛠️ Tech Stack
 
 - **Operating Systems**: Linux, Windows  
-- **Scripting**: Bash, Shell  
+- **Scripting**: Shell  
 - **Cloud Infrastructure**: AWS  
 - **IaC (Infrastructure as Code)**: Terraform  
-- **CI/CD Tools**: Jenkins, GitHub Actions  
+- **CI/CD Tools**: Jenkins 
 - **Configuration Management**: Ansible  
 - **Containers & Orchestration**: Docker, Kubernetes  
 - **Monitoring & Observability**: Prometheus, Grafana  
